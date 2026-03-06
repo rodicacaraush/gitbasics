@@ -1,0 +1,7 @@
+  1. "Git functioneaza ca un sistem de salvare si tracking ale tuturor versiunilor unui proiect"
+  ✅ Correct and clear. You captured the two key ideas: saving and tracking versions. Perfect.                                                 ─   ▪ ─  
+
+  2. "Snapshots are useful to save while wanting to go back working via any past project version"
+  ✅ Correct idea.tYou understood the "time machine" concept — being able to return to any past state.
+  
+  A branch = a safe copy of your project where you can experiment freely.
