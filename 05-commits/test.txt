@@ -1,0 +1,3 @@
+My tasks to do: 
+1. Create a new file test.txt inside C:\Projects\gitbasics with any text
+  2. Stage and commit it:
