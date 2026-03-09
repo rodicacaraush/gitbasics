@@ -1,0 +1,8 @@
+  #Întoarce-te pe master branch(automat creat la primul commit)
+  git switch master
+
+  # Șterge branch-ul "topic-07=practice"
+  git branch -d topic-07=practice
+
+  # Creează branch nou
+  git switch -c topic-07-practice
