@@ -3,4 +3,6 @@ My tasks to do:
   2. Stage and commit it:
 
     3. Now edit test.txt — change or add a line
-  4. Run git diff before staging — paste the output here
+  4. Run git diff before staging — paste the output here 
+
+  aaaaaaaaaa
