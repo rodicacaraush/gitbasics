@@ -1,0 +1,15 @@
+ Pașii pentru Topic 10:
+
+  1. Creează un cont gratuit pe https://github.com dacă nu ai deja.
+
+  2. Creează un repository nou pe GitHub:
+  - Click pe + → New repository
+  - Nume: gitbasics
+  - Lasă-l Public
+  - NU bifa Add a README — repo-ul trebuie să fie gol
+
+  3. După creare, GitHub îți arată o pagină cu comenzi. Ai nevoie de secțiunea:
+  …or push an existing repository from the command line                                                                                              
+  git remote add origin https://github.com/rodicacaraush/gitbasics.git                                                                               
+  git branch -M main                                                                                                                                 
+  git push -u origin main  
